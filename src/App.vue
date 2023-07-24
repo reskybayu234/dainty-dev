@@ -42,7 +42,7 @@
       <div class="relative bg-[#FFF4FD] items-center justify-center h-[720px] w-[1440px]">
         <div class="font-poppins h-[234px] text-[62px] leading-[78px] ml-[120px] mt-[104px]">
           <div class="absolute right-0 mr-[9px] mt-[20px] z-0 2xl:bottom-[139px] 2xl:mt-[133px]">
-              <img src="/Illustration.svg"  alt="">
+              <img src="../public/Illustration.svg"  alt="">
           </div>
           <p><span class="font-normal text-[#696969]">We Develop</span></p>
           <p class="font-semibold">SEO SOLUTIONS</p>
@@ -87,15 +87,15 @@
         </div>
         <div class="grid lg:grid-cols-3 grid-cols-1 mt-[37px] mb-[75px]">
           <div class="bg-white py-4 w-[285px] pt-[24px] px-[42px] h-[348px] m-2 shadow-lg rounded-2xl">
-            <img src="/Mask group.svg"  alt="">
+            <img src="../public/Mask group.svg"  alt="">
             <p class="font-poppins text-base mt-[16px] text-center">Products you are selling</p>
           </div>
           <div class="bg-white m-2 w-[285px] h-[348px] pt-[24px] px-[42px] shadow-lg rounded-2xl">
-            <img src="/Mask group(2).svg"  alt="">
+            <img src="../public/Mask group(2).svg"  alt="">
             <p class="font-poppins text-base mt-[16px] text-center">Services you provide and offer</p>
           </div>
           <div class="bg-white m-2 w-[285px] h-[348px] pt-[24px] px-[42px] shadow-lg rounded-2xl">
-            <img src="/Mask group (1).svg"  alt="">
+            <img src="../public/Mask group (1).svg"  alt="">
             <p class="font-poppins text-base mt-[16px] text-center">Information on topics you have 
               deep expertise and experience on</p>
           </div>
@@ -141,7 +141,7 @@
             </button>
           </div>
           <div class="absolute 2xl:right-14 right-28 xl:w-[545px] xl:h-[292px] bottom-[68px]">
-            <img src="/Mask group(3).svg"  alt="">
+            <img src="../public/Mask group(3).svg"  alt="">
           </div>
         </div>
       </div>
@@ -162,30 +162,30 @@
             </div>
           </div>
           <div class="absolute right-0 bottom-4">
-            <img src="/Layer_1.svg"  alt="">
+            <img src="../public/Layer_1.svg"  alt="">
           </div>
         </div>
         <div class="flex flex-col">
           <div class="w-[387px] h-[152px] bg-[#101010] rounded-3xl mb-4 relative">
             <div class="absolute left-2 top-4">
-              <img src="/Group 140.svg"  alt="">
+              <img src="../public/Group 140.svg"  alt="">
             </div>
             <div class="w-[355px] h-6 mt-[86px] ml-4">
               <p class="text-white font-poppins text-sm">Organic Search drives more Website Traffic compared to other marketing Channels.</p>
             </div>
             <div class="absolute right-0 top-0">
-              <img src="/Mask group(4).svg"  alt="">
+              <img src="../public/Mask group(4).svg"  alt="">
             </div>
           </div>
           <div class="w-[387px] h-[194px] bg-[#101010] rounded-3xl relative">
             <div class="absolute left-2 top-4">
-              <img src="/Group 140(2).svg"  alt="">
+              <img src="../public/Group 140(2).svg"  alt="">
             </div>
             <div class="w-[355px] h-6 mt-[86px] ml-4">
               <p class="text-white font-poppins text-sm">GrowthBadger found in a study of 3.25 BILLION website visits, more than 50% of this Website Traffic (for most industries) came from Organic Search.</p>
             </div>
             <div class="absolute right-0 top-0">
-              <img src="/Mask group(5).svg"  alt="">
+              <img src="../public/Mask group(5).svg"  alt="">
             </div>
           </div>
         </div>
@@ -211,7 +211,7 @@
             </button>
           </div>
           <div class="absolute bottom-0">
-              <img src="/Mask group(6).svg" alt="">
+              <img src="../public/Mask group(6).svg" alt="">
           </div>
         </div>
         <div class="relative bg-[#E4EAFF] w-[589px] h-[552px] rounded-3xl">
@@ -230,7 +230,7 @@
             </button>
           </div>
           <div class="absolute bottom-0">
-              <img src="/Mask group(7).svg" alt="">
+              <img src="../public/Mask group(7).svg" alt="">
           </div>
         </div>
       </div>
@@ -262,7 +262,7 @@
           </div>
         </div>
         <div class="absolute z-0 bg-[#5546FF] rounded-tl-[80px] rounded-tr-[80px] bottom-0">
-          <img src="/Mask group(8).svg" alt="">
+          <img src="../public/Mask group(8).svg" alt="">
         </div>
       </div>
 
@@ -353,7 +353,7 @@
           </div>
         </div>
         <div class="absolute right-0 bottom-0">
-          <img src="/image-02.svg" alt="">
+          <img src="../public/image-02.svg" alt="">
         </div>
       </div>
 
